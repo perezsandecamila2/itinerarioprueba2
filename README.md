@@ -4,7 +4,7 @@ Customize Leaflet maps with a linked Google Sheets template or CSV files and Geo
 ![Preview](preview.jpg)
 
 ## Live links (replace with your own)
-- Leaflet Map https://handsondataviz.github.io/leaflet-maps-with-google-sheets/
+- Leaflet Map https://perezsandecamila2.github.io/itinerarioprueba2/
 - Google Sheets template https://docs.google.com/spreadsheets/d/14vcDGZk_hMKRHHK-kGD9pIRoLWRJDfbwCMLjoqHOixg/edit?gid=0#gid=0
 
 ## Create your own
